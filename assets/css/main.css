@@ -1023,6 +1023,12 @@
 				width: 100%;
 			}
 
+			.img-circle {
+    		border-radius: 50%;
+		    margin: 0 auto;
+		    border: 2px solid white;
+			}
+
 /* List */
 
 	ol {
